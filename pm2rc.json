@@ -1,0 +1,10 @@
+[
+  {
+    "name": "app-4000",
+    "script": "/Volumes/NelSSD/SRC/experimental/pm2/test-service-4000/server.js"
+  },
+  {
+    "name": "app-4001",
+    "script": "/Volumes/NelSSD/SRC/experimental/pm2/test-service-4001/server.js"
+  }
+]
